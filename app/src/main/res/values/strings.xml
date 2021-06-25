@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Crypto Market</string>
+    <string name="coin">Coin:</string>
+    <string name="current_price">Current price:</string>
+    <string name="change_24_hrs">Change(24 hrs):</string>
+</resources>
